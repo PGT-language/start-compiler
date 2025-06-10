@@ -1,0 +1,12 @@
+"filename", "language", "Python", "Markdown", "Assembler file", "comment", "blank", "total"
+"c:\Users\pavlo\Downloads\my lengvic\asm-compiler\README.md", "Markdown", 0, 29, 0, 0, 12, 41
+"c:\Users\pavlo\Downloads\my lengvic\asm-compiler\docs\README.md", "Markdown", 0, 23, 0, 0, 15, 38
+"c:\Users\pavlo\Downloads\my lengvic\asm-compiler\src\codegen.asm", "Assembler file", 0, 0, 8, 0, 3, 11
+"c:\Users\pavlo\Downloads\my lengvic\asm-compiler\src\lexer.asm", "Assembler file", 0, 0, 23, 0, 8, 31
+"c:\Users\pavlo\Downloads\my lengvic\asm-compiler\src\main.asm", "Assembler file", 0, 0, 15, 0, 6, 21
+"c:\Users\pavlo\Downloads\my lengvic\asm-compiler\src\parser.asm", "Assembler file", 0, 0, 13, 0, 6, 19
+"c:\Users\pavlo\Downloads\my lengvic\asm-compiler\src\utils.asm", "Assembler file", 0, 0, 37, 0, 5, 42
+"c:\Users\pavlo\Downloads\my lengvic\conpiler.asm", "Assembler file", 0, 0, 0, 0, 1, 1
+"c:\Users\pavlo\Downloads\my lengvic\idea\IDEA.py", "Python", 62, 0, 0, 7, 15, 84
+"c:\Users\pavlo\Downloads\my lengvic\test.py", "Python", 32, 0, 0, 4, 9, 45
+"Total", "-", 94, 52, 96, 11, 80, 333
